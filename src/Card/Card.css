@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@100..900&family=Lexend+Deca:wght@100..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+.box{
+    padding: 40px;
+}
+
+.titulo{
+    font-family: "Big Shoulders Display", sans-serif;
+    font-size: 38px;
+    color: white;
+    font-weight: 500;
+}
+
+.texto{
+    font-family: "Lexend Deca", sans-serif;
+    font-size: 15px;
+    color: #ffffffbf;
+    font-weight: 300;
+}

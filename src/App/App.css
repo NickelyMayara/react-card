@@ -1,0 +1,21 @@
+:root{
+  --Bright-orange: #e38826;
+--Dark-cyan: #006970;
+--Very-dark-cyan: #004241;  
+}
+
+body{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+}
+
+
+.containers{
+  display: flex;
+}
+
+
